@@ -1,0 +1,29 @@
+
+.VideoCard{
+    width: 300px;
+    margin-bottom: 40px;
+}
+.Video_thumbnail{
+    height: 160px;
+    width: 260px;
+}
+.Video__info{
+    display: flex;
+    margin-top: 10px;
+    padding-right:30px ;
+}
+.Video_text{
+    margin-left:15px;
+}
+.Video_text >h4 {
+    font-size:14px;
+    margin-bottom:5px
+}
+.Video_text > p {
+    font-size:14px;
+    color:gray;
+}
+.Video_avatar{
+    height: 30px !important;
+    width: 30px !important;
+}
